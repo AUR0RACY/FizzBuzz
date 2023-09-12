@@ -5,6 +5,7 @@ class FizzBuzz implements doFizzBuzz {
 
     public static void main(String[] args) {
         int i = 1;
+        // a small change trail
         while ( i < 100) {
 
             // Find out which numbers divide i.
