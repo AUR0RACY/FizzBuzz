@@ -5,6 +5,7 @@ class FizzBuzz {
 
     public static void main() {
         int i = 1;
+        // a small change trail
         while ( i < 100) {
 
             // Find out which numbers divide i.
